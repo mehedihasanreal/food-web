@@ -5,7 +5,7 @@ body {
 
 .top-field {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
     margin-top: 50px;
 }
 
@@ -21,9 +21,14 @@ body {
     padding-top: 80px;
 }
 
+.food-order h2 {
+    font-size: 40px;
+    padding-top: 50px;
+}
+
 .food-order p {
     font-size: 25px;
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 
 .orange {
@@ -39,4 +44,18 @@ body {
     padding: 20px 40px;
     font-weight: 700;
     box-shadow: 10px 10px 40px rgb(235, 122, 102);
+}
+
+.mid-field {
+    display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-bottom: 150px;
+}
+
+#female-image {
+    height: 40%;
+    padding-top: 53px;
+    padding-left: 25%;
 }
