@@ -5,7 +5,7 @@ body {
 
 .top-field {
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     margin-top: 50px;
 }
 
@@ -28,7 +28,9 @@ body {
 
 .food-order p {
     font-size: 25px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
+    text-align: justify;
+    padding-right: 5px;
 }
 
 .orange {
@@ -51,11 +53,20 @@ body {
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
-    margin-bottom: 150px;
+    height: 700px;
+    margin-bottom: 100px;
 }
 
 #female-image {
-    height: 40%;
-    padding-top: 53px;
+    height: 90%;
+    padding-top: 10.5%;
     padding-left: 25%;
+}
+
+.para {
+    font-size: 25px;
+    margin-bottom: 60px;
+    text-align: justify;
+    margin-right: 20%;
+    color: brown;
 }
