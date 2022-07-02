@@ -58,14 +58,14 @@ body {
 }
 
 #female-image {
-    height: 90%;
-    padding-top: 10.5%;
+    height: 80%;
+    padding-top: 15.5%;
     padding-left: 25%;
 }
 
 .para {
     font-size: 25px;
-    margin-bottom: 60px;
+    padding-bottom: 80px;
     text-align: justify;
     margin-right: 20%;
     color: brown;
@@ -78,7 +78,7 @@ body {
 
 .foods-sector p {
     text-align: center;
-    font-size: 25px;
+    font-size: 30px;
     padding-left: 25%;
     padding-right: 25%;
 }
@@ -111,6 +111,7 @@ body {
 
 .foods p {
     text-align: left;
+    font-size: 25px;
     padding-bottom: 0;
 }
 
@@ -137,5 +138,14 @@ body {
 }
 
 .media p {
-    font-size: 20px;
+    font-size: 25px;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 80px;
 }
